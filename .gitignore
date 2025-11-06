@@ -1,0 +1,9 @@
+# Environment
+.env
+
+# Build output
+target/
+
+# IDE configs
+.idea/
+.vscode/
