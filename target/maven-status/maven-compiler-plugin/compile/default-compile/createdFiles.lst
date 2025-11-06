@@ -1,0 +1,15 @@
+com\example\cs2bot\Main.class
+com\example\cs2bot\models\Trade$OfferItem.class
+com\example\cs2bot\seed\SeedSkins.class
+com\example\cs2bot\utils\SteamMarketAPI.class
+com\example\cs2bot\listeners\SlashCommandListener.class
+com\example\cs2bot\models\Trade.class
+com\example\cs2bot\models\User.class
+com\example\cs2bot\db\MongoUtil.class
+com\example\cs2bot\commands\InventoryCommand.class
+com\example\cs2bot\utils\PriceUpdater.class
+com\example\cs2bot\listeners\ButtonListener.class
+com\example\cs2bot\utils\SteamPriceCache.class
+com\example\cs2bot\models\Skin.class
+com\example\cs2bot\models\User$InventoryItem.class
+com\example\cs2bot\utils\SteamSchemaAPI.class

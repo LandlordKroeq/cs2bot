@@ -1,0 +1,1 @@
+web: java -jar target/cs2-java-bot-1.0-SNAPSHOT-shaded.jar
